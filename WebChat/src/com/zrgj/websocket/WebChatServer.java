@@ -1,4 +1,4 @@
-package org.zrgj.websocket;
+package com.zrgj.websocket;
 
 import java.io.IOException;
 import java.sql.SQLException;
