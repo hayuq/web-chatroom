@@ -14,7 +14,7 @@
 			<div class="login">
 				<p>
 					<span style="color: #000000;">服务器：</span> 
-					<input type="text" id="url" size="30" value="www.juncheng1994.cn" class="txt" />
+					<input type="text" id="url" size="30" value="www.juncheng1994.cn/WebChat" class="txt" />
 					<span style="color: #000000;">用户名：</span> 
 					<input type="text" id="user" size="30" class="txt"
 						onkeyup="this.value = this.value.replace(/\s/g,'')" /> 
